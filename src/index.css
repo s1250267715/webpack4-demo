@@ -1,0 +1,7 @@
+.flower {
+  max-width: 500px;
+}
+
+.flower--rotate {
+  transform: rotate(30deg);
+}
